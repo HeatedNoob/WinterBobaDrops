@@ -1,4 +1,38 @@
-html {
-  height: 100%;
-  width: 100%;
+body {
+  background:#860000;
+  text-align: center;
+ border: solid;
+  border-radius: 20px;
+  border-color:#486220;
+  border-style: double;
+  border-width: 20px;
+
+}
+h1 {
+  font-weight: bold;
+  font-size: 105px;
+  color: #edd3a9;
+  text-outline: 15px #486220;
+  text-outline-width: 10px;
+}
+p{
+  font-size: 18px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img{
+  height: 400px;
+  float: center;
+  border-radius: 100px;
+  border: solid;
+  border-width: 2px;
+  border-color: #486220;
+  border-style: double;
+  border-width: 5px;
+
+}
+.index{
+  color:#edd3a9;
+  font-size: 30px;
+}
+i 
 }
